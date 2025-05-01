@@ -1,2 +1,2 @@
-# Nachrichten-bertragung
+# Nachrichtenübertragung
 Python projects for digital signal processing
